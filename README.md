@@ -5,8 +5,8 @@ Un jeu du pendu bien connu de tous !
 ### Installation et Lancement :
 
 ```bash
-$ git clone https://github.com/TheHarryPop/Jeu_du_Pendu.git
-$ cd Jeu_du_Pendu
+$ git clone https://github.com/TheHarryPop/Jeu-du-Pendu.git
+$ cd Jeu-du-Pendu
 $ python3 -m venv env (Sous Windows => python -m venv env)
 $ source env/bin/activate (Sous Windows => env\Scripts\activate)
 $ python main.py
